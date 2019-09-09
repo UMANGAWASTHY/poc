@@ -1,0 +1,8 @@
+C:\Users\Umang Awasthy\source\repos\StandardLibrary\StandardLibrary\bin\Debug\netstandard2.0\StandardLibrary.deps.json
+C:\Users\Umang Awasthy\source\repos\StandardLibrary\StandardLibrary\bin\Debug\netstandard2.0\StandardLibrary.dll
+C:\Users\Umang Awasthy\source\repos\StandardLibrary\StandardLibrary\bin\Debug\netstandard2.0\StandardLibrary.pdb
+C:\Users\Umang Awasthy\source\repos\StandardLibrary\StandardLibrary\obj\Debug\netstandard2.0\StandardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Umang Awasthy\source\repos\StandardLibrary\StandardLibrary\obj\Debug\netstandard2.0\StandardLibrary.AssemblyInfoInputs.cache
+C:\Users\Umang Awasthy\source\repos\StandardLibrary\StandardLibrary\obj\Debug\netstandard2.0\StandardLibrary.AssemblyInfo.cs
+C:\Users\Umang Awasthy\source\repos\StandardLibrary\StandardLibrary\obj\Debug\netstandard2.0\StandardLibrary.dll
+C:\Users\Umang Awasthy\source\repos\StandardLibrary\StandardLibrary\obj\Debug\netstandard2.0\StandardLibrary.pdb
